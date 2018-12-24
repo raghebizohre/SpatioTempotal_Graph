@@ -181,7 +181,7 @@ while (k.before(get_Max_Time())) {
 	Addtofile( numInterval);
 	
 }
-
+//write to file
 	public static void Addtofile(int numInterval) throws IOException {
 	
 		File f;
